@@ -23,6 +23,8 @@ Helpful tips:
     * Different bit-number types are actually completely different number types - these by themselves will have to be converted before they can work together
     * Floating point numbers are eight “Float” or “Double” - Double being the more precise and automatically used option 
 * Non-existence of something is not the same as 0
+* Array reverse
+    * When I tried to reverse an array via print(), it didn't work - I had to use the reverse function, and THEN print the array
 
 
 Syntax:
