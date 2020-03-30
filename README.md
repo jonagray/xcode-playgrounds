@@ -14,7 +14,8 @@ Shortcuts:
 
 * Open/close the debugging area (console)
     * Cmd-Shift-Y
-
+* View a variable's type information
+    * Option-left click on the variable
 
 Helpful tips:
 
@@ -33,6 +34,12 @@ Syntax:
     * The colon after a variable indicates that you’re about to tell it specifically “what type” of variable it’s going to be - I.E. a string, number, etc
 * Variables vs Constants
     * “var” is used for variables, and “let” is use for constants
+
+
+Dictionaries:
+
+* Swift's Basic Types
+    * A Dictionary's keys must be hashable - String, Int, Float, Double, and Bool are all hashable
 
 
 Loops:
